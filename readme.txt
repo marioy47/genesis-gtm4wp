@@ -1,10 +1,13 @@
 === Genesis Google Tag Manager for Wordpress ===
 Tags: genesis, genesiswp, studiopress, gtm, google tag manager, google analytics
 Requires at least: 3.2
-Tested up to: 4.1
+Tested up to: 4.2.2
 Stable tag: 1.0.0
 
 
+= Developers =
+
+Development takes place on [GitHub](https://github.com/marioy47/genesis-gtm4wp). So if you want a feature, just make a Pull Request.
 
 == Description ==
 
