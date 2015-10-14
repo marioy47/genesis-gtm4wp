@@ -1,7 +1,7 @@
 === Genesis Google Tag Manager for Wordpress ===
 Tags: genesis, genesiswp, studiopress, gtm, google tag manager, google analytics
 Requires at least: 3.2
-Tested up to: 4.2.2
+Tested up to: 4.3.1
 Stable tag: 1.0.0
 
 
